@@ -1,0 +1,954 @@
+[
+ {
+  "name": "5 Céntimos de Peseta",
+  "value": 0.05,
+  "year": 1940,
+  "tirada": "1,15g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "5 Céntimos de Peseta",
+  "value": 0.05,
+  "year": 1941,
+  "tirada": "1,15g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "5 Céntimos de Peseta1945 Madrid",
+  "value": 0.05,
+  "year": 1945,
+  "tirada": "1,15g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "5 Céntimos de Peseta 1953 Madrid",
+  "value": 0.05,
+  "year": 1953,
+  "tirada": "1,15g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "10 Céntimos de Peseta 1959 Madrid",
+  "value": 0.1,
+  "year": 1959,
+  "tirada": "0,75g",
+  "Weight": "18mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "10 Céntimos de Peseta 1940 Madrid.",
+  "value": 0.1,
+  "year": 1940,
+  "tirada": "1,85g",
+  "Weight": "23mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "10 Céntimos de Peseta 1941 Madrid.",
+  "value": 0.1,
+  "year": 1941,
+  "tirada": "1,85g",
+  "Weight": "23mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "10 Céntimos de Peseta 1945 Madrid.",
+  "value": 0.1,
+  "year": 1945,
+  "tirada": "1,85g",
+  "Weight": "23mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "10 Céntimos de Peseta 1953 Madrid.",
+  "value": 0.1,
+  "year": 1953,
+  "tirada": "1,85g",
+  "Weight": "23mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "25 Céntimos de Peseta 1937 Viena",
+  "value": 0.25,
+  "year": 1937,
+  "tirada": "7g",
+  "Weight": "25mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1949 *1951 Madrid.",
+  "value": 0.5,
+  "year": 1951,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1949 *1952 Madrid.",
+  "value": 0.5,
+  "year": 1952,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1949 *1953 Madrid.",
+  "value": 0.5,
+  "year": 1953,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1949 *1954 Madrid.",
+  "value": 0.5,
+  "year": 1954,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1949 *1956 Madrid.",
+  "value": 0.5,
+  "year": 1956,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1949 *1962 Madrid.",
+  "value": 0.5,
+  "year": 1962,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1963 *1963 Madrid.",
+  "value": 0.5,
+  "year": 1963,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1963 *1964 Madrid.",
+  "value": 0.5,
+  "year": 1964,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1963 *1965 Madrid.",
+  "value": 0.5,
+  "year": 1965,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1949 *19-51 Madrid \nFlechas invertidas.",
+  "value": 0.5,
+  "year": 1951,
+  "tirada": "4g",
+  "Weight": "20mm",
+  "diameter": "Cuproniquel"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1967 Madrid.",
+  "value": 0.5,
+  "year": 1967,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1968 Madrid.",
+  "value": 0.5,
+  "year": 1968,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1969 Madrid.",
+  "value": 0.5,
+  "year": 1969,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1970 Madrid. \n(Prueba)",
+  "value": 0.5,
+  "year": 1970,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1971 Madrid.",
+  "value": 0.5,
+  "year": 1971,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1972 Madrid.",
+  "value": 0.5,
+  "year": 1972,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1973 Madrid.",
+  "value": 0.5,
+  "year": 1973,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1974 Madrid. \n(Prueba)",
+  "value": 0.5,
+  "year": 1974,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "50 Céntimos de Peseta 1966 *1975 Madrid. \n(Prueba)",
+  "value": 0.5,
+  "year": 1975,
+  "tirada": "1g",
+  "Weight": "20mm",
+  "diameter": "Aluminio"
+ },
+ {
+  "name": "1 Peseta 1944 Madrid.",
+  "value": 1,
+  "year": 1944,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1946 *1948 Madrid.",
+  "value": 1,
+  "year": 1948,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1948 Madrid.",
+  "value": 1,
+  "year": 1948,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1949 Madrid.",
+  "value": 1,
+  "year": 1949,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1950 Madrid.",
+  "value": 1,
+  "year": 1950,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1951 Madrid.",
+  "value": 1,
+  "year": 1951,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1952 Madrid.",
+  "value": 1,
+  "year": 1952,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1953 Madrid.",
+  "value": 1,
+  "year": 1953,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1954 Madrid.",
+  "value": 1,
+  "year": 1954,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1947 *1956 Madrid.",
+  "value": 1,
+  "year": 1956,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1953 *1954 Madrid.",
+  "value": 1,
+  "year": 1954,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1953 *1956 Madrid.",
+  "value": 1,
+  "year": 1956,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1953 *1960 Madrid.",
+  "value": 1,
+  "year": 1960,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1953 *1961 Madrid.",
+  "value": 1,
+  "year": 1961,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1953 *1962 Madrid.",
+  "value": 1,
+  "year": 1962,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1953 *1963 Madrid.",
+  "value": 1,
+  "year": 1963,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1963 *1963 Madrid.",
+  "value": 1,
+  "year": 1963,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1963 *1964 Madrid.",
+  "value": 1,
+  "year": 1964,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1963 *1965 Madrid.",
+  "value": 1,
+  "year": 1965,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1963 *1966 Madrid.",
+  "value": 1,
+  "year": 1966,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1963 *1967 Madrid.",
+  "value": 1,
+  "year": 1967,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1967 Madrid.",
+  "value": 1,
+  "year": 1967,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1968 Madrid.",
+  "value": 1,
+  "year": 1968,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1969 Madrid.",
+  "value": 1,
+  "year": 1969,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1970 Madrid.",
+  "value": 1,
+  "year": 1970,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1971 Madrid.",
+  "value": 1,
+  "year": 1971,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1972 Madrid.",
+  "value": 1,
+  "year": 1972,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1973 Madrid.",
+  "value": 1,
+  "year": 1973,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1974 Madrid.",
+  "value": 1,
+  "year": 1974,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "1 Peseta 1966 *1975 Madrid.",
+  "value": 1,
+  "year": 1975,
+  "tirada": "3,5g",
+  "Weight": "20mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "2 Peseta y Media 1953 *1954 Madrid.",
+  "value": 2.5,
+  "year": 1954,
+  "tirada": "7g",
+  "Weight": "25mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "2 Peseta y Media 1953 *1956 Madrid.",
+  "value": 2.5,
+  "year": 1956,
+  "tirada": "7g",
+  "Weight": "25mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "2 Peseta y Media 1953 *1968 Madrid. \n(Prueba)",
+  "value": 2.5,
+  "year": 1968,
+  "tirada": "7g",
+  "Weight": "25mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "2 Peseta y Media 1953 *1969 Madrid. \n(Prueba)",
+  "value": 2.5,
+  "year": 1969,
+  "tirada": "7g",
+  "Weight": "25mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "2 Peseta y Media 1953 *1970 Madrid.\n (Prueba)",
+  "value": 2.5,
+  "year": 1970,
+  "tirada": "7g",
+  "Weight": "25mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "2 Peseta y Media 1953 *1971 Madrid. \n(Prueba)",
+  "value": 2.5,
+  "year": 1971,
+  "tirada": "7g",
+  "Weight": "25mm",
+  "diameter": "Aluminio-Cobre"
+ },
+ {
+  "name": "5 Pesetas 1949 *1949 Madrid.",
+  "value": 5,
+  "year": 1949,
+  "tirada": "15g",
+  "Weight": "33mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1949 *1950 Madrid.",
+  "value": 5,
+  "year": 1950,
+  "tirada": "15g",
+  "Weight": "33mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1949 *1951 Madrid. (Prueba)",
+  "value": 5,
+  "year": 1951,
+  "tirada": "15g",
+  "Weight": "33mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1949 *1952 Madrid. (Prueba)",
+  "value": 5,
+  "year": 1952,
+  "tirada": "15g",
+  "Weight": "33mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1958 Madrid.",
+  "value": 5,
+  "year": 1958,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1959 Madrid.",
+  "value": 5,
+  "year": 1959,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1960 Madrid.",
+  "value": 5,
+  "year": 1960,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1961 Madrid.",
+  "value": 5,
+  "year": 1961,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1962 Madrid.",
+  "value": 5,
+  "year": 1962,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1963 Madrid.",
+  "value": 5,
+  "year": 1963,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1964 Madrid.",
+  "value": 5,
+  "year": 1964,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1965 Madrid.",
+  "value": 5,
+  "year": 1965,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1966 Madrid.",
+  "value": 5,
+  "year": 1966,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1967 Madrid.",
+  "value": 5,
+  "year": 1967,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1968 Madrid.",
+  "value": 5,
+  "year": 1968,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1969 Madrid.",
+  "value": 5,
+  "year": 1969,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1970 Madrid.",
+  "value": 5,
+  "year": 1970,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1971 Madrid.",
+  "value": 5,
+  "year": 1971,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1972 Madrid.",
+  "value": 5,
+  "year": 1972,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1973 Madrid.",
+  "value": 5,
+  "year": 1973,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1974 Madrid.",
+  "value": 5,
+  "year": 1974,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "5 Pesetas 1957 *1975 Madrid.",
+  "value": 5,
+  "year": 1975,
+  "tirada": "5,75g",
+  "Weight": "23mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *58 Madrid.",
+  "value": 25,
+  "year": 1958,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *59 Madrid.",
+  "value": 25,
+  "year": 1959,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *61 Madrid.",
+  "value": 25,
+  "year": 1961,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *64 Madrid.",
+  "value": 25,
+  "year": 1964,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *65 Madrid.",
+  "value": 25,
+  "year": 1965,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *66 Madrid.",
+  "value": 25,
+  "year": 1966,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *67 Madrid.",
+  "value": 25,
+  "year": 1967,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *68 Madrid.",
+  "value": 25,
+  "year": 1968,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *69 Madrid.",
+  "value": 25,
+  "year": 1969,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *70 Madrid.",
+  "value": 25,
+  "year": 1970,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *71 Madrid.",
+  "value": 25,
+  "year": 1971,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *72 Madrid.",
+  "value": 25,
+  "year": 1972,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *73 Madrid. (Prueba)",
+  "value": 25,
+  "year": 1973,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *74 Madrid.",
+  "value": 25,
+  "year": 1974,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "25 Pesetas 1957 *75 Madrid.",
+  "value": 25,
+  "year": 1975,
+  "tirada": "8,5g",
+  "Weight": "27mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *58 Madrid.",
+  "value": 50,
+  "year": 1958,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *59 Madrid.",
+  "value": 50,
+  "year": 1959,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *60 Madrid.",
+  "value": 50,
+  "year": 1960,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *67 Madrid.",
+  "value": 50,
+  "year": 1967,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *68 Madrid. (Prueba)",
+  "value": 50,
+  "year": 1968,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *69 Madrid. (Prueba)",
+  "value": 50,
+  "year": 1969,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *70 Madrid. (Prueba)",
+  "value": 50,
+  "year": 1970,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *71 Madrid.",
+  "value": 50,
+  "year": 1971,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *72 Madrid. (Prueba)",
+  "value": 50,
+  "year": 1972,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *73 Madrid. (Prueba)",
+  "value": 50,
+  "year": 1973,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *74 Madrid. (Prueba)",
+  "value": 50,
+  "year": 1974,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "50 Pesetas 1957 *75 Madrid. (Prueba)",
+  "value": 50,
+  "year": 1975,
+  "tirada": "12,5g",
+  "Weight": "30mm",
+  "diameter": "Niquel"
+ },
+ {
+  "name": "100 Pesetas 1966 *1966 Madrid.",
+  "value": 100,
+  "year": 1966,
+  "tirada": "19g",
+  "Weight": "34mm",
+  "diameter": "Plata"
+ },
+ {
+  "name": "100 Pesetas 1966 *1967 Madrid.",
+  "value": 100,
+  "year": 1967,
+  "tirada": "19g",
+  "Weight": "34mm",
+  "diameter": "Plata"
+ },
+ {
+  "name": "100 Pesetas 1966 *1968 Madrid.",
+  "value": 100,
+  "year": 1968,
+  "tirada": "19g",
+  "Weight": "34mm",
+  "diameter": "Plata"
+ },
+ {
+  "name": "100 Pesetas 1966 *1969 Madrid.",
+  "value": 100,
+  "year": 1969,
+  "tirada": "19g",
+  "Weight": "34mm",
+  "diameter": "Plata"
+ },
+ {
+  "name": "100 Pesetas 1966 *1970 Madrid.",
+  "value": 100,
+  "year": 1970,
+  "tirada": "19g",
+  "Weight": "34mm",
+  "diameter": "Plata"
+ }
+]
